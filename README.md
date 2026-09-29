@@ -15,7 +15,7 @@ Leetcode-Solutions/
 |-- Question_Difficulty_Level
   |-- Type_of_Question/
       |-- Name_of_Question/
-          |-- solution.py
+          |-- Solution.py
           |-- Question.md
 |--...      
 |--...
